@@ -1,6 +1,8 @@
-package com.world.workshop.universalworkshop;
+package com.world.workshop.universalworkshop.activity;
 
 import android.os.Bundle;
+
+import com.world.workshop.universalworkshop.R;
 
 /**
  * Created by Administrator on 2016/1/23.
